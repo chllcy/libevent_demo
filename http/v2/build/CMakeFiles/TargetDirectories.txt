@@ -1,0 +1,3 @@
+/home/chen/github/HTTP/v2/build/CMakeFiles/rebuild_cache.dir
+/home/chen/github/HTTP/v2/build/CMakeFiles/edit_cache.dir
+/home/chen/github/HTTP/v2/build/CMakeFiles/samplest.dir
